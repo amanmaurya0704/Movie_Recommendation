@@ -1,0 +1,5 @@
+streamlit
+requests
+pandas
+bz2file
+pickle4
